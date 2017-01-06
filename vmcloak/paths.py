@@ -19,6 +19,7 @@ PATHS = {
         "/usr/bin/mkisofs",
         "/usr/local/bin/mkisofs",
         "/usr/pkg/bin/mkisofs",
+        "/opt/local/bin/mkisofs",
     ],
     "vboxmanage": [
         "/usr/bin/VBoxManage",
